@@ -89,7 +89,7 @@
     "del": "^6.0.0",
     "detect-browser": "^5.2.0",
     "dotenv": "^17.2.3",
-    "esbuild": "^0.25.11",
+    "esbuild": "^0.28.1",
     "fs-extra": "^11.3.2",
     "immer": "^10.2.0",
     "ipaddr.js": "^2.3.0",
